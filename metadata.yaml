@@ -1,0 +1,31 @@
+_repo: The-North-American-Indian-Vol.-1_19449
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, Edward S.
+    alias: Curtis, Edward Sheriff
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '8683'
+    url: http://www.gutenberg.org/2009/agents/8683
+    wikipedia: http://en.wikipedia.org/wiki/Edward_S._Curtis
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Anthropology
+gutenberg_issued: '2006-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America'
+- !lcc 'E011'
+title: The North American Indian, Vol. 1
+url: http://www.gutenberg.org/ebooks/19449
