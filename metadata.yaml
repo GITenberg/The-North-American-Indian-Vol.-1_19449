@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8683
     wikipedia: http://en.wikipedia.org/wiki/Edward_S._Curtis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19449#The-North-American-Indian-Vol.-1
 gutenberg_bookshelf:
 - Native America
 - Anthropology
